@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://repo.cypwn.xyz/assets/images/cypwn_small.png
   name: CyPwn Status
   introTitle: "**CyPwn** Services Status"
-  introMessage: [Discord](https://discord.gg/cypwn)
+  introMessage: Join our [Discord](https://discord.gg/cypwn)
   navbar:
     - title: Status
       href: /
