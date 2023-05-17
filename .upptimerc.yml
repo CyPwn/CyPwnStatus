@@ -13,6 +13,8 @@ sites:
     url: https://drm.cypwn.xyz
   - name: API
     url: https://api.cypwn.xyz
+    expectedStatusCodes:
+      - 401
 
 status-website:
   cname: status.cypwn.xyz
