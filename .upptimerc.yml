@@ -18,10 +18,10 @@ sites:
 
 status-website:
   cname: status.cypwn.xyz
-  theme: dark
+  theme: night
   logoUrl: https://repo.cypwn.xyz/assets/images/cypwn_small.png
   name: CyPwn Status
-  introTitle: "**CyPwn** Services Status"
+  introTitle: "**CyPwn** Status"
   introMessage: Join our [Discord](https://discord.gg/cypwn)
   navbar:
     - title: Status
