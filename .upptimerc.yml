@@ -3,12 +3,14 @@ owner: CyPwn
 repo: CyPwnStatus
 
 sites:
-  - name: CyPwn
+  - name: CyPwn.xyz
     url: https://cypwn.xyz
   - name: Repo
     url: https://repo.cypwn.xyz
   - name: IPA Library
     url: https://ipa.cypwn.xyz
+  - name: Backup Repo
+    url: https://cypwn.ml
   - name: DRM
     url: https://drm.cypwn.xyz
   - name: API
