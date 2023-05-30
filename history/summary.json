@@ -4,19 +4,19 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 563,
-    "timeWeek": 1336,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1125,
+    "timeDay": 3070,
+    "timeWeek": 1572,
+    "timeMonth": 1125,
+    "timeYear": 1125,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 6
     }
   },
   {
