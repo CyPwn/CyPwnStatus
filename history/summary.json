@@ -4,23 +4,19 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 981,
     "timeDay": 563,
     "timeWeek": 1336,
     "timeMonth": 981,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2023-05-28": 31,
-      "2023-05-27": 63,
-      "2023-05-26": 106,
-      "2023-05-24": 27,
-      "2023-05-23": 6
+      "2023-05-30": 0
     }
   },
   {
@@ -29,24 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.cypwn.xyz.ico",
     "slug": "repo",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "98.12%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1097,
     "timeDay": 743,
     "timeWeek": 1437,
     "timeMonth": 1097,
     "timeYear": 1097,
-    "dailyMinutesDown": {
-      "2023-05-28": 118,
-      "2023-05-27": 63,
-      "2023-05-26": 106,
-      "2023-05-24": 27,
-      "2023-05-23": 6,
-      "2023-05-21": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPA Library",
@@ -54,24 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.29%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 985,
     "timeDay": 932,
     "timeWeek": 957,
     "timeMonth": 985,
     "timeYear": 985,
-    "dailyMinutesDown": {
-      "2023-05-28": 87,
-      "2023-05-27": 64,
-      "2023-05-26": 106,
-      "2023-05-24": 27,
-      "2023-05-23": 6,
-      "2023-05-21": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backup Repo",
@@ -79,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.ml.ico",
     "slug": "backup-repo",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.03%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 353,
     "timeDay": 344,
     "timeWeek": 356,
     "timeMonth": 353,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2023-05-25": 348
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DRM",
@@ -99,24 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "98.60%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 897,
     "timeDay": 649,
     "timeWeek": 1354,
     "timeMonth": 897,
     "timeYear": 897,
-    "dailyMinutesDown": {
-      "2023-05-28": 31,
-      "2023-05-27": 64,
-      "2023-05-26": 106,
-      "2023-05-24": 28,
-      "2023-05-23": 6,
-      "2023-05-21": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -124,22 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "98.77%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 896,
     "timeDay": 550,
     "timeWeek": 1500,
     "timeMonth": 896,
     "timeYear": 896,
-    "dailyMinutesDown": {
-      "2023-05-27": 64,
-      "2023-05-26": 106,
-      "2023-05-24": 28,
-      "2023-05-23": 6,
-      "2023-05-21": 21
-    }
+    "dailyMinutesDown": {}
   }
 ]
