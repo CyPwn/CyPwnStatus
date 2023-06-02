@@ -76,19 +76,19 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 871,
-    "timeDay": 559,
-    "timeWeek": 463,
-    "timeMonth": 871,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 864,
+    "timeDay": 566,
+    "timeWeek": 471,
+    "timeMonth": 864,
+    "timeYear": 864,
     "dailyMinutesDown": {
-      "2023-06-02": 1
+      "2023-06-02": 6
     }
   },
   {
