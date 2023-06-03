@@ -4,9 +4,9 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 889,
     "timeMonth": 1068,
     "timeYear": 1068,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-03": 0
+    }
   },
   {
     "name": "Repo",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 1074,
     "timeDay": 798,
-    "timeWeek": 697,
+    "timeWeek": 684,
     "timeMonth": 1074,
     "timeYear": 1074,
     "dailyMinutesDown": {}
@@ -83,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 856,
-    "timeDay": 559,
+    "timeDay": 545,
     "timeWeek": 464,
     "timeMonth": 856,
     "timeYear": 856,
