@@ -4,54 +4,60 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1020,
-    "timeDay": 591,
-    "timeWeek": 1154,
-    "timeMonth": 1020,
-    "timeYear": 1020,
-    "dailyMinutesDown": {}
+    "time": 999,
+    "timeDay": 380,
+    "timeWeek": 1056,
+    "timeMonth": 999,
+    "timeYear": 999,
+    "dailyMinutesDown": {
+      "2023-06-06": 1
+    }
   },
   {
     "name": "Repo",
     "url": "https://repo.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/repo.cypwn.xyz.ico",
     "slug": "repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 880,
-    "timeWeek": 827,
-    "timeMonth": 1055,
-    "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "time": 1036,
+    "timeDay": 528,
+    "timeWeek": 746,
+    "timeMonth": 1036,
+    "timeYear": 1036,
+    "dailyMinutesDown": {
+      "2023-06-06": 1
+    }
   },
   {
     "name": "IPA Library",
     "url": "https://ipa.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1081,
-    "timeDay": 1530,
-    "timeWeek": 1588,
-    "timeMonth": 1081,
-    "timeYear": 1081,
-    "dailyMinutesDown": {}
+    "time": 1061,
+    "timeDay": 863,
+    "timeWeek": 1414,
+    "timeMonth": 1061,
+    "timeYear": 1061,
+    "dailyMinutesDown": {
+      "2023-06-06": 1
+    }
   },
   {
     "name": "Backup Repo",
@@ -76,27 +82,29 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 590,
-    "timeWeek": 556,
-    "timeMonth": 834,
-    "timeYear": 834,
-    "dailyMinutesDown": {}
+    "time": 819,
+    "timeDay": 393,
+    "timeWeek": 516,
+    "timeMonth": 819,
+    "timeYear": 819,
+    "dailyMinutesDown": {
+      "2023-06-06": 1
+    }
   },
   {
     "name": "API",
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +113,8 @@
     "timeWeek": 549,
     "timeMonth": 838,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   }
 ]
