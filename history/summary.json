@@ -67,19 +67,19 @@
     "url": "https://cypwn.ml",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.ml.ico",
     "slug": "backup-repo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 428,
-    "timeWeek": 970,
-    "timeMonth": 642,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 563,
+    "timeDay": 441,
+    "timeWeek": 914,
+    "timeMonth": 637,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-06-27": 0
+      "2023-06-27": 9
     }
   },
   {
