@@ -34,7 +34,7 @@
     "time": 962,
     "timeDay": 784,
     "timeWeek": 884,
-    "timeMonth": 763,
+    "timeMonth": 762,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2023-06-20": 18,
@@ -67,18 +67,20 @@
     "url": "https://cypwn.ml",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.ml.ico",
     "slug": "backup-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 586,
-    "timeWeek": 1069,
-    "timeMonth": 653,
-    "timeYear": 571,
-    "dailyMinutesDown": {}
+    "time": 565,
+    "timeDay": 428,
+    "timeWeek": 970,
+    "timeMonth": 642,
+    "timeYear": 565,
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
   },
   {
     "name": "DRM",
