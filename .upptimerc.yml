@@ -10,7 +10,7 @@ sites:
   - name: IPA Library
     url: https://ipa.cypwn.xyz
   - name: Backup Repo
-    url: https://cypwn.ml
+    url: https://cpr.keycap.one
   - name: DRM
     url: https://drm.cypwn.xyz
   - name: API
