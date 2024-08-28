@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 238,
-    "timeDay": 63,
-    "timeWeek": 62,
+    "time": 237,
+    "timeDay": 71,
+    "timeWeek": 66,
     "timeMonth": 80,
-    "timeYear": 73,
-    "dailyMinutesDown": {
-      "2023-08-29": 83
-    }
+    "timeYear": 72,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Repo",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 303,
-    "timeDay": 68,
+    "time": 301,
+    "timeDay": 77,
     "timeWeek": 70,
     "timeMonth": 85,
-    "timeYear": 74,
-    "dailyMinutesDown": {
-      "2023-08-29": 82
-    }
+    "timeYear": 72,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPA Library",
@@ -50,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 532,
-    "timeDay": 70,
-    "timeWeek": 63,
+    "time": 529,
+    "timeDay": 85,
+    "timeWeek": 65,
     "timeMonth": 78,
-    "timeYear": 79,
-    "dailyMinutesDown": {
-      "2023-08-29": 82
-    }
+    "timeYear": 75,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DRM",
@@ -70,14 +64,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 251,
-    "timeDay": 71,
-    "timeWeek": 70,
-    "timeMonth": 78,
-    "timeYear": 80,
-    "dailyMinutesDown": {
-      "2023-08-29": 82
-    }
+    "time": 250,
+    "timeDay": 222,
+    "timeWeek": 95,
+    "timeMonth": 83,
+    "timeYear": 79,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -91,12 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 218,
-    "timeDay": 63,
-    "timeWeek": 70,
+    "timeDay": 62,
+    "timeWeek": 72,
     "timeMonth": 72,
-    "timeYear": 67,
-    "dailyMinutesDown": {
-      "2023-08-29": 82
-    }
+    "timeYear": 65,
+    "dailyMinutesDown": {}
   }
 ]
