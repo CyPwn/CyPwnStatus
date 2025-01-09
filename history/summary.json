@@ -42,9 +42,9 @@
     "slug": "ipa-library",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "88.52%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "87.29%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.97%",
     "time": 77,
     "timeDay": 580,
@@ -52,7 +52,7 @@
     "timeMonth": 120,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2025-01-09": 165
+      "2025-01-09": 183
     }
   },
   {
@@ -60,17 +60,17 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 56,
-    "timeWeek": 63,
-    "timeMonth": 76,
-    "timeYear": 80,
+    "time": 78,
+    "timeDay": 224,
+    "timeWeek": 104,
+    "timeMonth": 86,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -78,17 +78,19 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 293,
-    "timeWeek": 124,
+    "time": 67,
+    "timeDay": 220,
+    "timeWeek": 119,
     "timeMonth": 83,
     "timeYear": 69,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 0
+    }
   }
 ]
