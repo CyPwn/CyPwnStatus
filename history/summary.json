@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "88.52%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.97%",
     "time": 77,
     "timeDay": 580,
     "timeWeek": 243,
     "timeMonth": 120,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2025-01-09": 0
+      "2025-01-09": 165
     }
   },
   {
@@ -78,17 +78,17 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 67,
-    "timeDay": 57,
-    "timeWeek": 66,
-    "timeMonth": 69,
-    "timeYear": 68,
+    "time": 68,
+    "timeDay": 293,
+    "timeWeek": 124,
+    "timeMonth": 83,
+    "timeYear": 69,
     "dailyMinutesDown": {}
   }
 ]
