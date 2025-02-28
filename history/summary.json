@@ -4,16 +4,16 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
-    "uptime": "96.05%",
-    "uptimeDay": "30.06%",
-    "uptimeWeek": "8.54%",
-    "uptimeMonth": "15.27%",
-    "uptimeYear": "92.94%",
-    "time": 174,
-    "timeDay": 305,
-    "timeWeek": 356,
-    "timeMonth": 304,
+    "status": "down",
+    "uptime": "96.08%",
+    "uptimeDay": "30.54%",
+    "uptimeWeek": "8.61%",
+    "uptimeMonth": "15.95%",
+    "uptimeYear": "92.99%",
+    "time": 173,
+    "timeDay": 300,
+    "timeWeek": 353,
+    "timeMonth": 303,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-02-28": 641,
@@ -43,7 +43,7 @@
       "2025-02-04": 1213,
       "2025-02-03": 1188,
       "2025-02-02": 1158,
-      "2025-02-01": 793
+      "2025-02-01": 495
     }
   },
   {
@@ -63,7 +63,7 @@
     "timeMonth": 126,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-02-28": 880,
+      "2025-02-28": 887,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -125,7 +125,7 @@
     "timeMonth": 84,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2025-02-28": 880,
+      "2025-02-28": 887,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -195,7 +195,7 @@
     "timeMonth": 89,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-02-28": 880,
+      "2025-02-28": 887,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -265,7 +265,7 @@
     "timeMonth": 245,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-02-28": 534,
+      "2025-02-28": 541,
       "2025-02-27": 1254,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
