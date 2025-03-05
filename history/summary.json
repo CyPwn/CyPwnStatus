@@ -7,16 +7,16 @@
     "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "27.15%",
-    "uptimeWeek": "40.83%",
-    "uptimeMonth": "86.38%",
-    "uptimeYear": "98.87%",
+    "uptimeWeek": "40.79%",
+    "uptimeMonth": "86.37%",
+    "uptimeYear": "98.86%",
     "time": 198,
     "timeDay": 302,
     "timeWeek": 289,
     "timeMonth": 303,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-03-05": 1007,
+      "2025-03-05": 1011,
       "2025-03-04": 965,
       "2025-03-03": 1070,
       "2025-03-02": 1070,
@@ -41,7 +41,7 @@
     "timeMonth": 134,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-03-05": 1389,
+      "2025-03-05": 1393,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -108,7 +108,7 @@
     "timeMonth": 88,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2025-03-05": 1389,
+      "2025-03-05": 1393,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -183,7 +183,7 @@
     "timeMonth": 93,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-05": 1389,
+      "2025-03-05": 1393,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -246,17 +246,17 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "41.92%",
-    "uptimeWeek": "35.82%",
-    "uptimeMonth": "85.23%",
-    "uptimeYear": "98.77%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "42.20%",
+    "uptimeWeek": "38.72%",
+    "uptimeMonth": "85.90%",
+    "uptimeYear": "98.82%",
     "time": 152,
-    "timeDay": 262,
-    "timeWeek": 265,
+    "timeDay": 258,
+    "timeWeek": 264,
     "timeMonth": 262,
-    "timeYear": 169,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2025-03-05": 817,
       "2025-03-04": 1117,
@@ -264,7 +264,7 @@
       "2025-03-02": 1128,
       "2025-03-01": 1000,
       "2025-02-28": 905,
-      "2025-02-27": 546
+      "2025-02-27": 254
     }
   }
 ]
