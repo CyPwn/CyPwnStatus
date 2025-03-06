@@ -4,12 +4,12 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "26.84%",
-    "uptimeWeek": "37.39%",
-    "uptimeMonth": "85.59%",
-    "uptimeYear": "98.80%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "26.92%",
+    "uptimeWeek": "38.32%",
+    "uptimeMonth": "85.81%",
+    "uptimeYear": "98.82%",
     "time": 203,
     "timeDay": 261,
     "timeWeek": 287,
@@ -22,7 +22,7 @@
       "2025-03-03": 1070,
       "2025-03-02": 1070,
       "2025-03-01": 1040,
-      "2025-02-28": 354
+      "2025-02-28": 260
     }
   },
   {
@@ -42,7 +42,7 @@
     "timeMonth": 134,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2025-03-06": 1012,
+      "2025-03-06": 1019,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -110,7 +110,7 @@
     "timeMonth": 88,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2025-03-06": 1012,
+      "2025-03-06": 1019,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -186,7 +186,7 @@
     "timeMonth": 93,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-06": 1012,
+      "2025-03-06": 1019,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -250,14 +250,14 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "17.48%",
-    "uptimeWeek": "33.58%",
-    "uptimeMonth": "84.72%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "17.95%",
+    "uptimeWeek": "34.01%",
+    "uptimeMonth": "84.81%",
     "uptimeYear": "98.73%",
     "time": 148,
-    "timeDay": 269,
+    "timeDay": 263,
     "timeWeek": 264,
     "timeMonth": 262,
     "timeYear": 171,
@@ -268,7 +268,7 @@
       "2025-03-03": 959,
       "2025-03-02": 1128,
       "2025-03-01": 1000,
-      "2025-02-28": 791
+      "2025-02-28": 748
     }
   }
 ]
