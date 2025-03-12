@@ -7,16 +7,16 @@
     "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "26.16%",
-    "uptimeWeek": "45.09%",
-    "uptimeMonth": "87.36%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "44.95%",
+    "uptimeMonth": "87.33%",
+    "uptimeYear": "98.94%",
     "time": 214,
     "timeDay": 301,
-    "timeWeek": 274,
+    "timeWeek": 273,
     "timeMonth": 293,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-12": 321,
+      "2025-03-12": 334,
       "2025-03-11": 1161,
       "2025-03-10": 943,
       "2025-03-09": 823,
@@ -42,7 +42,7 @@
     "timeMonth": 138,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-12": 515,
+      "2025-03-12": 528,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -116,7 +116,7 @@
     "timeMonth": 78,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2025-03-12": 515,
+      "2025-03-12": 528,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -198,7 +198,7 @@
     "timeMonth": 95,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-12": 515,
+      "2025-03-12": 528,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -268,15 +268,15 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "28.20%",
-    "uptimeWeek": "45.68%",
-    "uptimeMonth": "87.50%",
-    "uptimeYear": "98.96%",
+    "uptimeDay": "29.12%",
+    "uptimeWeek": "46.32%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "98.97%",
     "time": 179,
-    "timeDay": 278,
-    "timeWeek": 270,
+    "timeDay": 272,
+    "timeWeek": 269,
     "timeMonth": 268,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -286,7 +286,7 @@
       "2025-03-09": 956,
       "2025-03-08": 738,
       "2025-03-07": 866,
-      "2025-03-06": 786
+      "2025-03-06": 721
     }
   }
 ]
