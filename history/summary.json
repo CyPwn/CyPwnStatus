@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "26.75%",
-    "uptimeWeek": "44.63%",
-    "uptimeMonth": "87.26%",
+    "uptimeWeek": "44.50%",
+    "uptimeMonth": "87.23%",
     "uptimeYear": "98.94%",
     "time": 216,
     "timeDay": 316,
@@ -16,7 +16,7 @@
     "timeMonth": 293,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-12": 561,
+      "2025-03-12": 574,
       "2025-03-11": 1161,
       "2025-03-10": 943,
       "2025-03-09": 823,
@@ -42,7 +42,7 @@
     "timeMonth": 138,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-12": 871,
+      "2025-03-12": 884,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -109,14 +109,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "83.03%",
+    "uptimeYear": "83.02%",
     "time": 77,
     "timeDay": 59,
     "timeWeek": 69,
     "timeMonth": 78,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2025-03-12": 871,
+      "2025-03-12": 884,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -198,7 +198,7 @@
     "timeMonth": 95,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-12": 871,
+      "2025-03-12": 884,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -268,16 +268,16 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "26.89%",
-    "uptimeWeek": "44.41%",
-    "uptimeMonth": "87.21%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "27.76%",
+    "uptimeWeek": "46.77%",
+    "uptimeMonth": "87.75%",
+    "uptimeYear": "98.98%",
     "time": 180,
-    "timeDay": 285,
+    "timeDay": 279,
     "timeWeek": 271,
-    "timeMonth": 269,
+    "timeMonth": 268,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2025-03-12": 671,
@@ -286,7 +286,7 @@
       "2025-03-09": 956,
       "2025-03-08": 738,
       "2025-03-07": 866,
-      "2025-03-06": 616
+      "2025-03-06": 378
     }
   }
 ]
