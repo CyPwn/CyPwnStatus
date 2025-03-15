@@ -6,8 +6,8 @@
     "slug": "cy-pwn-xyz",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "33.93%",
-    "uptimeWeek": "23.34%",
+    "uptimeDay": "34.41%",
+    "uptimeWeek": "23.41%",
     "uptimeMonth": "80.76%",
     "uptimeYear": "98.40%",
     "time": 222,
@@ -43,7 +43,7 @@
     "timeMonth": 136,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-15": 1127,
+      "2025-03-15": 1134,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -113,14 +113,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "82.16%",
+    "uptimeYear": "82.15%",
     "time": 77,
     "timeDay": 64,
     "timeWeek": 70,
     "timeMonth": 76,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2025-03-15": 1127,
+      "2025-03-15": 1134,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -205,7 +205,7 @@
     "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-15": 1127,
+      "2025-03-15": 1134,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -278,15 +278,15 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "27.56%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "28.02%",
     "uptimeWeek": "24.76%",
-    "uptimeMonth": "80.47%",
-    "uptimeYear": "98.37%",
+    "uptimeMonth": "80.74%",
+    "uptimeYear": "98.39%",
     "time": 190,
-    "timeDay": 262,
-    "timeWeek": 271,
+    "timeDay": 260,
+    "timeWeek": 270,
     "timeMonth": 269,
     "timeYear": 207,
     "dailyMinutesDown": {
@@ -298,7 +298,7 @@
       "2025-03-10": 778,
       "2025-03-09": 956,
       "2025-03-08": 738,
-      "2025-03-07": 345
+      "2025-03-07": 228
     }
   }
 ]
