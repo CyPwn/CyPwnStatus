@@ -6,17 +6,17 @@
     "slug": "cy-pwn-xyz",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "37.97%",
-    "uptimeWeek": "23.19%",
-    "uptimeMonth": "80.51%",
-    "uptimeYear": "98.38%",
+    "uptimeDay": "39.51%",
+    "uptimeWeek": "23.34%",
+    "uptimeMonth": "80.50%",
+    "uptimeYear": "98.37%",
     "time": 217,
-    "timeDay": 273,
+    "timeDay": 275,
     "timeWeek": 278,
     "timeMonth": 288,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-03-16": 388,
+      "2025-03-16": 375,
       "2025-03-15": 884,
       "2025-03-14": 1382,
       "2025-03-13": 1440,
@@ -24,7 +24,7 @@
       "2025-03-11": 1161,
       "2025-03-10": 943,
       "2025-03-09": 823,
-      "2025-03-08": 430
+      "2025-03-08": 450
     }
   },
   {
@@ -44,7 +44,7 @@
     "timeMonth": 84,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-16": 683,
+      "2025-03-16": 697,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -115,14 +115,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "81.97%",
+    "uptimeYear": "81.96%",
     "time": 77,
     "timeDay": 70,
     "timeWeek": 73,
     "timeMonth": 77,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2025-03-16": 683,
+      "2025-03-16": 697,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -208,7 +208,7 @@
     "timeMonth": 83,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-03-16": 683,
+      "2025-03-16": 697,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -282,15 +282,15 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "36.45%",
-    "uptimeWeek": "24.52%",
-    "uptimeMonth": "80.38%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "36.44%",
+    "uptimeWeek": "24.59%",
+    "uptimeMonth": "80.62%",
+    "uptimeYear": "98.38%",
     "time": 187,
-    "timeDay": 287,
-    "timeWeek": 277,
+    "timeDay": 285,
+    "timeWeek": 276,
     "timeMonth": 268,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -302,7 +302,7 @@
       "2025-03-11": 980,
       "2025-03-10": 778,
       "2025-03-09": 956,
-      "2025-03-08": 488
+      "2025-03-08": 381
     }
   }
 ]
