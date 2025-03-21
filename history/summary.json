@@ -4,16 +4,16 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "51.30%",
-    "uptimeWeek": "51.06%",
-    "uptimeMonth": "88.74%",
-    "uptimeYear": "99.06%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "52.36%",
+    "uptimeWeek": "51.44%",
+    "uptimeMonth": "88.82%",
+    "uptimeYear": "99.07%",
     "time": 231,
-    "timeDay": 285,
+    "timeDay": 281,
     "timeWeek": 283,
-    "timeMonth": 289,
+    "timeMonth": 288,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-03-21": 312,
@@ -22,7 +22,7 @@
       "2025-03-18": 1042,
       "2025-03-17": 924,
       "2025-03-16": 757,
-      "2025-03-15": 434
+      "2025-03-15": 396
     }
   },
   {
@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.cypwn.xyz.ico",
     "slug": "repo",
     "status": "down",
-    "uptime": "90.69%",
+    "uptime": "90.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -42,7 +42,7 @@
     "timeMonth": 87,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2025-03-21": 667,
+      "2025-03-21": 683,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -114,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
     "status": "down",
-    "uptime": "89.48%",
+    "uptime": "89.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -125,7 +125,7 @@
     "timeMonth": 80,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2025-03-21": 667,
+      "2025-03-21": 683,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -209,14 +209,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "80.64%",
+    "uptimeYear": "80.63%",
     "time": 79,
     "timeDay": 72,
     "timeWeek": 82,
     "timeMonth": 84,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-03-21": 667,
+      "2025-03-21": 683,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -297,8 +297,8 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "54.98%",
-    "uptimeWeek": "51.43%",
+    "uptimeDay": "55.91%",
+    "uptimeWeek": "51.40%",
     "uptimeMonth": "88.82%",
     "uptimeYear": "99.07%",
     "time": 202,
@@ -307,13 +307,13 @@
     "timeMonth": 269,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-03-21": 337,
+      "2025-03-21": 324,
       "2025-03-20": 486,
       "2025-03-19": 718,
       "2025-03-18": 934,
       "2025-03-17": 1043,
       "2025-03-16": 921,
-      "2025-03-15": 457
+      "2025-03-15": 473
     }
   }
 ]
