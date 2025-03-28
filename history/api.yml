@@ -1,7 +1,7 @@
 url: https://api.cypwn.xyz
-status: up
-code: 401
-responseTime: 1156
-lastUpdated: 2025-03-28T04:53:48.801Z
+status: down
+code: 403
+responseTime: 117
+lastUpdated: 2025-03-28T05:08:37.715Z
 startTime: 2023-05-17T10:09:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
