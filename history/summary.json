@@ -35,12 +35,12 @@
     "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "95.48%",
-    "uptimeWeek": "67.36%",
+    "uptimeWeek": "67.53%",
     "uptimeMonth": "91.30%",
     "uptimeYear": "99.28%",
     "time": 198,
     "timeDay": 424,
-    "timeWeek": 366,
+    "timeWeek": 367,
     "timeMonth": 357,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -62,13 +62,13 @@
     "slug": "ipa-library",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "69.87%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "69.89%",
     "uptimeMonth": "88.69%",
     "uptimeYear": "99.06%",
     "time": 418,
     "timeDay": 996,
-    "timeWeek": 877,
+    "timeWeek": 875,
     "timeMonth": 836,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -88,15 +88,15 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "63.08%",
-    "uptimeMonth": "90.72%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "63.09%",
+    "uptimeMonth": "90.82%",
     "uptimeYear": "99.23%",
     "time": 129,
-    "timeDay": 224,
-    "timeWeek": 199,
+    "timeDay": 217,
+    "timeWeek": 198,
     "timeMonth": 196,
     "timeYear": 146,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
       "2025-03-30": 770,
       "2025-03-29": 765,
       "2025-03-28": 757,
-      "2025-03-27": 522
+      "2025-03-27": 480
     }
   },
   {
@@ -115,14 +115,14 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "68.87%",
-    "uptimeMonth": "91.93%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "69.03%",
+    "uptimeMonth": "91.97%",
     "uptimeYear": "99.33%",
     "time": 224,
-    "timeDay": 296,
+    "timeDay": 287,
     "timeWeek": 292,
     "timeMonth": 279,
     "timeYear": 239,
@@ -135,7 +135,7 @@
       "2025-03-29": 590,
       "2025-03-28": 794,
       "2025-03-27": 598,
-      "2025-03-26": 51
+      "2025-03-26": 33
     }
   }
 ]
