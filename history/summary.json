@@ -4,15 +4,15 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "91.87%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "91.86%",
     "uptimeWeek": "71.51%",
-    "uptimeMonth": "91.67%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "91.78%",
+    "uptimeYear": "99.32%",
     "time": 249,
-    "timeDay": 314,
-    "timeWeek": 304,
+    "timeDay": 295,
+    "timeWeek": 303,
     "timeMonth": 291,
     "timeYear": 261,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2025-03-30": 588,
       "2025-03-29": 557,
       "2025-03-28": 529,
-      "2025-03-27": 393
+      "2025-03-27": 343
     }
   },
   {
@@ -40,7 +40,7 @@
     "uptimeYear": "99.31%",
     "time": 209,
     "timeDay": 401,
-    "timeWeek": 371,
+    "timeWeek": 370,
     "timeMonth": 361,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
     "uptimeYear": "99.07%",
     "time": 403,
     "timeDay": 853,
-    "timeWeek": 874,
+    "timeWeek": 872,
     "timeMonth": 839,
     "timeYear": 487,
     "dailyMinutesDown": {
@@ -92,9 +92,9 @@
     "slug": "drm",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "70.16%",
-    "uptimeMonth": "90.82%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "70.30%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "99.23%",
     "time": 133,
     "timeDay": 200,
@@ -102,7 +102,7 @@
     "timeMonth": 197,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-04-04": 44,
+      "2025-04-04": 37,
       "2025-04-03": 60,
       "2025-04-02": 161,
       "2025-04-01": 437,
@@ -110,7 +110,7 @@
       "2025-03-30": 770,
       "2025-03-29": 765,
       "2025-03-28": 757,
-      "2025-03-27": 416
+      "2025-03-27": 440
     }
   },
   {
@@ -121,7 +121,7 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "86.52%",
-    "uptimeWeek": "75.83%",
+    "uptimeWeek": "75.85%",
     "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 227,
