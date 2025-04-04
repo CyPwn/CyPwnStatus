@@ -4,15 +4,15 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "87.17%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "87.16%",
     "uptimeWeek": "71.63%",
-    "uptimeMonth": "91.72%",
+    "uptimeMonth": "91.77%",
     "uptimeYear": "99.31%",
-    "time": 249,
-    "timeDay": 281,
-    "timeWeek": 304,
+    "time": 250,
+    "timeDay": 282,
+    "timeWeek": 303,
     "timeMonth": 291,
     "timeYear": 261,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2025-03-30": 588,
       "2025-03-29": 557,
       "2025-03-28": 529,
-      "2025-03-27": 285
+      "2025-03-27": 261
     }
   },
   {
@@ -40,7 +40,7 @@
     "uptimeYear": "99.31%",
     "time": 209,
     "timeDay": 395,
-    "timeWeek": 370,
+    "timeWeek": 371,
     "timeMonth": 361,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -60,16 +60,16 @@
     "url": "https://ipa.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "95.22%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "95.20%",
     "uptimeWeek": "76.69%",
-    "uptimeMonth": "90.03%",
-    "uptimeYear": "99.17%",
+    "uptimeMonth": "91.54%",
+    "uptimeYear": "99.30%",
     "time": 407,
-    "timeDay": 875,
-    "timeWeek": 874,
-    "timeMonth": 840,
+    "timeDay": 836,
+    "timeWeek": 871,
+    "timeMonth": 838,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2025-04-04": 63,
@@ -81,7 +81,7 @@
       "2025-03-29": 514,
       "2025-03-28": 562,
       "2025-03-27": 703,
-      "2025-03-26": 827
+      "2025-03-26": 164
     }
   },
   {
@@ -120,7 +120,7 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "86.52%",
-    "uptimeWeek": "76.29%",
+    "uptimeWeek": "76.36%",
     "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 228,
