@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "88.79%",
-    "uptimeWeek": "78.84%",
+    "uptimeWeek": "78.90%",
     "uptimeMonth": "91.92%",
     "uptimeYear": "99.33%",
     "time": 246,
@@ -63,16 +63,16 @@
     "url": "https://ipa.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.34%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.33%",
     "uptimeWeek": "85.18%",
-    "uptimeMonth": "91.48%",
+    "uptimeMonth": "91.53%",
     "uptimeYear": "99.29%",
     "time": 432,
-    "timeDay": 731,
+    "timeDay": 683,
     "timeWeek": 868,
-    "timeMonth": 840,
+    "timeMonth": 838,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2025-04-06": 24,
@@ -86,7 +86,7 @@
       "2025-03-29": 514,
       "2025-03-28": 562,
       "2025-03-27": 703,
-      "2025-03-26": 85
+      "2025-03-26": 64
     }
   },
   {
@@ -96,9 +96,9 @@
     "slug": "drm",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "82.57%",
-    "uptimeMonth": "91.00%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "82.71%",
+    "uptimeMonth": "90.98%",
     "uptimeYear": "99.25%",
     "time": 141,
     "timeDay": 252,
@@ -106,7 +106,7 @@
     "timeMonth": 201,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-04-06": 124,
+      "2025-04-06": 116,
       "2025-04-05": 20,
       "2025-04-04": 55,
       "2025-04-03": 60,
@@ -116,7 +116,7 @@
       "2025-03-30": 770,
       "2025-03-29": 765,
       "2025-03-28": 757,
-      "2025-03-27": 179
+      "2025-03-27": 199
     }
   },
   {
