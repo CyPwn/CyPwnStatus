@@ -4,15 +4,15 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "88.79%",
-    "uptimeWeek": "78.98%",
-    "uptimeMonth": "91.92%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "79.18%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.33%",
     "time": 246,
     "timeDay": 297,
-    "timeWeek": 296,
+    "timeWeek": 295,
     "timeMonth": 291,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
       "2025-03-31": 714,
       "2025-03-30": 588,
       "2025-03-29": 557,
-      "2025-03-28": 529
+      "2025-03-28": 510
     }
   },
   {
@@ -33,16 +33,16 @@
     "url": "https://repo.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/repo.cypwn.xyz.ico",
     "slug": "repo",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "80.96%",
-    "uptimeMonth": "91.93%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "81.43%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.33%",
     "time": 222,
-    "timeDay": 408,
-    "timeWeek": 378,
-    "timeMonth": 364,
+    "timeDay": 392,
+    "timeWeek": 377,
+    "timeMonth": 363,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-04-06": 82,
@@ -55,7 +55,7 @@
       "2025-03-30": 425,
       "2025-03-29": 560,
       "2025-03-28": 635,
-      "2025-03-27": 169
+      "2025-03-27": 148
     }
   },
   {
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "85.11%",
-    "uptimeMonth": "91.51%",
+    "uptime": "99.62%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "91.48%",
     "uptimeYear": "99.29%",
     "time": 433,
     "timeDay": 723,
-    "timeWeek": 867,
+    "timeWeek": 871,
     "timeMonth": 839,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-04-06": 31,
+      "2025-04-06": 24,
       "2025-04-05": 81,
       "2025-04-04": 63,
       "2025-04-03": 6,
@@ -86,7 +86,7 @@
       "2025-03-29": 514,
       "2025-03-28": 562,
       "2025-03-27": 703,
-      "2025-03-26": 64
+      "2025-03-26": 85
     }
   },
   {
@@ -97,7 +97,7 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "90.59%",
-    "uptimeWeek": "82.78%",
+    "uptimeWeek": "82.90%",
     "uptimeMonth": "90.98%",
     "uptimeYear": "99.25%",
     "time": 141,
@@ -127,12 +127,12 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "93.23%",
-    "uptimeWeek": "83.94%",
+    "uptimeWeek": "84.05%",
     "uptimeMonth": "92.80%",
     "uptimeYear": "99.40%",
     "time": 225,
-    "timeDay": 301,
-    "timeWeek": 292,
+    "timeDay": 296,
+    "timeWeek": 293,
     "timeMonth": 281,
     "timeYear": 242,
     "dailyMinutesDown": {
