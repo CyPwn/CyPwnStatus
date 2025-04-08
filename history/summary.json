@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "92.77%",
-    "uptimeWeek": "88.95%",
+    "uptimeWeek": "89.21%",
     "uptimeMonth": "92.24%",
     "uptimeYear": "99.35%",
     "time": 250,
@@ -36,9 +36,9 @@
     "slug": "repo",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "89.87%",
-    "uptimeMonth": "92.37%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "89.94%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
     "time": 218,
     "timeDay": 356,
@@ -46,7 +46,7 @@
     "timeMonth": 363,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-04-08": 51,
+      "2025-04-08": 44,
       "2025-04-07": 52,
       "2025-04-06": 176,
       "2025-04-05": 80,
@@ -57,7 +57,7 @@
       "2025-03-31": 659,
       "2025-03-30": 425,
       "2025-03-29": 560,
-      "2025-03-28": 416
+      "2025-03-28": 439
     }
   },
   {
@@ -68,7 +68,7 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "86.69%",
-    "uptimeWeek": "93.37%",
+    "uptimeWeek": "93.63%",
     "uptimeMonth": "91.59%",
     "uptimeYear": "99.30%",
     "time": 454,
@@ -97,15 +97,15 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "92.78%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "91.30%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "91.55%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "99.28%",
     "time": 138,
-    "timeDay": 204,
-    "timeWeek": 218,
+    "timeDay": 197,
+    "timeWeek": 217,
     "timeMonth": 201,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -120,7 +120,7 @@
       "2025-03-31": 618,
       "2025-03-30": 770,
       "2025-03-29": 765,
-      "2025-03-28": 587
+      "2025-03-28": 565
     }
   },
   {
