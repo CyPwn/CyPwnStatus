@@ -4,18 +4,19 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "94.33%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "99.35%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "92.34%",
+    "uptimeYear": "99.36%",
     "time": 251,
-    "timeDay": 289,
-    "timeWeek": 294,
+    "timeDay": 279,
+    "timeWeek": 293,
     "timeMonth": 292,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2025-04-08": 0,
       "2025-04-07": 125,
       "2025-04-06": 68,
       "2025-04-05": 140,
@@ -26,7 +27,7 @@
       "2025-03-31": 714,
       "2025-03-30": 588,
       "2025-03-29": 557,
-      "2025-03-28": 236
+      "2025-03-28": 194
     }
   },
   {
@@ -73,7 +74,7 @@
     "uptimeYear": "99.30%",
     "time": 454,
     "timeDay": 754,
-    "timeWeek": 848,
+    "timeWeek": 844,
     "timeMonth": 840,
     "timeYear": 515,
     "dailyMinutesDown": {
@@ -98,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "92.55%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.62%",
+    "uptimeDay": "89.70%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "91.37%",
+    "uptimeYear": "99.28%",
     "time": 139,
     "timeDay": 204,
     "timeWeek": 218,
     "timeMonth": 201,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-04-08": 96,
+      "2025-04-08": 87,
       "2025-04-07": 139,
       "2025-04-06": 162,
       "2025-04-05": 20,
@@ -120,7 +121,7 @@
       "2025-03-31": 618,
       "2025-03-30": 770,
       "2025-03-29": 765,
-      "2025-03-28": 438
+      "2025-03-28": 514
     }
   },
   {
@@ -135,7 +136,7 @@
     "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 231,
-    "timeDay": 299,
+    "timeDay": 288,
     "timeWeek": 294,
     "timeMonth": 283,
     "timeYear": 244,
