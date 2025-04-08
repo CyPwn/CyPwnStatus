@@ -12,7 +12,7 @@
     "uptimeYear": "99.35%",
     "time": 251,
     "timeDay": 287,
-    "timeWeek": 294,
+    "timeWeek": 293,
     "timeMonth": 292,
     "timeYear": 263,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "87.95%",
-    "uptimeWeek": "94.29%",
+    "uptimeWeek": "94.36%",
     "uptimeMonth": "91.59%",
     "uptimeYear": "99.30%",
     "time": 454,
@@ -97,15 +97,15 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "89.70%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "89.68%",
     "uptimeWeek": "92.04%",
-    "uptimeMonth": "91.37%",
-    "uptimeYear": "99.28%",
+    "uptimeMonth": "91.54%",
+    "uptimeYear": "99.29%",
     "time": 139,
-    "timeDay": 204,
-    "timeWeek": 218,
+    "timeDay": 199,
+    "timeWeek": 217,
     "timeMonth": 201,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -120,7 +120,7 @@
       "2025-03-31": 618,
       "2025-03-30": 770,
       "2025-03-29": 765,
-      "2025-03-28": 514
+      "2025-03-28": 438
     }
   },
   {
