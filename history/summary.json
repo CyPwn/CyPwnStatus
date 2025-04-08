@@ -35,16 +35,16 @@
     "url": "https://repo.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/repo.cypwn.xyz.ico",
     "slug": "repo",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "99.37%",
     "time": 222,
-    "timeDay": 448,
-    "timeWeek": 387,
-    "timeMonth": 366,
+    "timeDay": 427,
+    "timeWeek": 385,
+    "timeMonth": 365,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-04-08": 131,
@@ -58,7 +58,7 @@
       "2025-03-31": 659,
       "2025-03-30": 425,
       "2025-03-29": 560,
-      "2025-03-28": 343
+      "2025-03-28": 318
     }
   },
   {
