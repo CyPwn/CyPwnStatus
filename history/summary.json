@@ -12,7 +12,7 @@
     "uptimeYear": "99.38%",
     "time": 247,
     "timeDay": 261,
-    "timeWeek": 293,
+    "timeWeek": 295,
     "timeMonth": 295,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
     "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 262,
-    "timeDay": 1355,
+    "timeDay": 1404,
     "timeWeek": 546,
     "timeMonth": 419,
     "timeYear": 292,
@@ -76,7 +76,7 @@
     "uptimeYear": "99.32%",
     "time": 480,
     "timeDay": 1729,
-    "timeWeek": 1002,
+    "timeWeek": 1005,
     "timeMonth": 895,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -102,16 +102,16 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "91.67%",
+    "uptimeDay": "91.65%",
     "uptimeWeek": "91.89%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "91.85%",
+    "uptimeYear": "99.32%",
     "time": 145,
-    "timeDay": 191,
-    "timeWeek": 216,
-    "timeMonth": 204,
+    "timeDay": 184,
+    "timeWeek": 215,
+    "timeMonth": 203,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-04-10": 19,
@@ -127,7 +127,7 @@
       "2025-03-31": 618,
       "2025-03-30": 770,
       "2025-03-29": 765,
-      "2025-03-28": 46
+      "2025-03-28": 5
     }
   },
   {
@@ -137,17 +137,17 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "83.46%",
-    "uptimeWeek": "90.78%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "83.95%",
+    "uptimeWeek": "90.85%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "99.43%",
     "time": 246,
     "timeDay": 1301,
     "timeWeek": 411,
     "timeMonth": 305,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-04-10": 157,
+      "2025-04-10": 150,
       "2025-04-09": 81,
       "2025-04-08": 152,
       "2025-04-07": 70,
@@ -159,7 +159,7 @@
       "2025-04-01": 460,
       "2025-03-31": 422,
       "2025-03-30": 487,
-      "2025-03-29": 542
+      "2025-03-29": 590
     }
   }
 ]
