@@ -6,17 +6,17 @@
     "slug": "cy-pwn-xyz",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "55.19%",
-    "uptimeMonth": "82.96%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "55.28%",
+    "uptimeMonth": "82.98%",
     "uptimeYear": "98.58%",
-    "time": 249,
-    "timeDay": 424,
+    "time": 250,
+    "timeDay": 394,
     "timeWeek": 311,
-    "timeMonth": 298,
+    "timeMonth": 299,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-04-15": 28,
+      "2025-04-15": 19,
       "2025-04-14": 1170,
       "2025-04-13": 1431,
       "2025-04-12": 1440,
@@ -42,17 +42,17 @@
     "slug": "repo",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "54.74%",
-    "uptimeMonth": "83.03%",
-    "uptimeYear": "98.59%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "54.83%",
+    "uptimeMonth": "83.01%",
+    "uptimeYear": "98.58%",
     "time": 275,
     "timeDay": 829,
     "timeWeek": 864,
     "timeMonth": 427,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-04-15": 28,
+      "2025-04-15": 19,
       "2025-04-14": 1184,
       "2025-04-13": 1434,
       "2025-04-12": 1440,
@@ -69,7 +69,7 @@
       "2025-04-01": 492,
       "2025-03-31": 659,
       "2025-03-30": 425,
-      "2025-03-29": 408
+      "2025-03-29": 429
     }
   },
   {
@@ -79,9 +79,9 @@
     "slug": "ipa-library",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "53.42%",
-    "uptimeMonth": "82.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "53.52%",
+    "uptimeMonth": "82.26%",
     "uptimeYear": "98.52%",
     "time": 507,
     "timeDay": 988,
@@ -89,7 +89,6 @@
     "timeMonth": 904,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2025-04-15": 9,
       "2025-04-14": 1162,
       "2025-04-13": 1433,
       "2025-04-12": 1440,
@@ -107,7 +106,7 @@
       "2025-03-31": 636,
       "2025-03-30": 659,
       "2025-03-29": 514,
-      "2025-03-28": 411
+      "2025-03-28": 434
     }
   },
   {
@@ -117,17 +116,16 @@
     "slug": "drm",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "54.58%",
-    "uptimeMonth": "82.31%",
-    "uptimeYear": "98.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "54.67%",
+    "uptimeMonth": "82.30%",
+    "uptimeYear": "98.52%",
     "time": 149,
     "timeDay": 430,
     "timeWeek": 260,
     "timeMonth": 208,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-04-15": 9,
       "2025-04-14": 1188,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -144,7 +142,7 @@
       "2025-04-01": 437,
       "2025-03-31": 618,
       "2025-03-30": 770,
-      "2025-03-29": 531
+      "2025-03-29": 546
     }
   },
   {
