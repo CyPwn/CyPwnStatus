@@ -12,8 +12,8 @@
     "uptimeYear": "98.58%",
     "time": 252,
     "timeDay": 540,
-    "timeWeek": 357,
-    "timeMonth": 303,
+    "timeWeek": 361,
+    "timeMonth": 302,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-04-16": 46,
@@ -78,16 +78,16 @@
     "url": "https://ipa.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "53.49%",
-    "uptimeMonth": "82.26%",
-    "uptimeYear": "98.52%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "53.56%",
+    "uptimeMonth": "82.30%",
+    "uptimeYear": "98.53%",
     "time": 519,
-    "timeDay": 1530,
-    "timeWeek": 1401,
-    "timeMonth": 919,
+    "timeDay": 1410,
+    "timeWeek": 1397,
+    "timeMonth": 918,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-04-16": 20,
@@ -109,7 +109,7 @@
       "2025-03-31": 636,
       "2025-03-30": 659,
       "2025-03-29": 514,
-      "2025-03-28": 391
+      "2025-03-28": 372
     }
   },
   {
@@ -120,12 +120,12 @@
     "status": "up",
     "uptime": "99.23%",
     "uptimeDay": "97.83%",
-    "uptimeWeek": "54.76%",
+    "uptimeWeek": "54.77%",
     "uptimeMonth": "82.26%",
     "uptimeYear": "98.52%",
     "time": 152,
     "timeDay": 489,
-    "timeWeek": 281,
+    "timeWeek": 287,
     "timeMonth": 211,
     "timeYear": 160,
     "dailyMinutesDown": {
@@ -155,18 +155,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "54.10%",
-    "uptimeMonth": "83.57%",
-    "uptimeYear": "98.63%",
+    "uptime": "99.28%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "54.20%",
+    "uptimeMonth": "83.46%",
+    "uptimeYear": "98.62%",
     "time": 241,
     "timeDay": 796,
     "timeWeek": 819,
     "timeMonth": 314,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-04-16": 10,
       "2025-04-15": 17,
       "2025-04-14": 1148,
       "2025-04-13": 1421,
@@ -184,7 +183,7 @@
       "2025-04-01": 460,
       "2025-03-31": 422,
       "2025-03-30": 487,
-      "2025-03-29": 397
+      "2025-03-29": 454
     }
   }
 ]
