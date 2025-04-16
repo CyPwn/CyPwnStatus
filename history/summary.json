@@ -115,18 +115,19 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "54.67%",
-    "uptimeMonth": "82.30%",
-    "uptimeYear": "98.52%",
+    "uptimeMonth": "82.33%",
+    "uptimeYear": "98.53%",
     "time": 151,
-    "timeDay": 469,
-    "timeWeek": 283,
+    "timeDay": 419,
+    "timeWeek": 278,
     "timeMonth": 210,
     "timeYear": 159,
     "dailyMinutesDown": {
+      "2025-04-16": 0,
       "2025-04-14": 1188,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -143,7 +144,7 @@
       "2025-04-01": 437,
       "2025-03-31": 618,
       "2025-03-30": 770,
-      "2025-03-29": 546
+      "2025-03-29": 531
     }
   },
   {
@@ -160,7 +161,7 @@
     "time": 241,
     "timeDay": 947,
     "timeWeek": 790,
-    "timeMonth": 313,
+    "timeMonth": 314,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-04-15": 17,
