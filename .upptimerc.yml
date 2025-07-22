@@ -1,6 +1,7 @@
 # Change these first
 owner: CyPwn
 repo: CyPwnStatus
+user-agent: cypwn
 
 sites:
   - name: CyPwn.xyz
