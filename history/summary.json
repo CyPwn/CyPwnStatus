@@ -4,16 +4,16 @@
     "url": "https://cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cypwn.xyz.ico",
     "slug": "cy-pwn-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "89.15%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "52.47%",
-    "uptimeYear": "76.31%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "52.50%",
+    "uptimeYear": "76.32%",
     "time": 269,
-    "timeDay": 143,
-    "timeWeek": 117,
-    "timeMonth": 712,
+    "timeDay": 147,
+    "timeWeek": 121,
+    "timeMonth": 702,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-07-22": 1127,
@@ -116,7 +116,7 @@
       "2025-04-01": 544,
       "2025-03-31": 714,
       "2025-03-30": 588,
-      "2025-03-29": 23
+      "2025-03-29": 5
     }
   },
   {
@@ -124,16 +124,16 @@
     "url": "https://repo.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/repo.cypwn.xyz.ico",
     "slug": "repo",
-    "status": "up",
+    "status": "down",
     "uptime": "89.16%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "52.42%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "52.44%",
     "uptimeYear": "76.32%",
     "time": 281,
-    "timeDay": 185,
-    "timeWeek": 141,
-    "timeMonth": 352,
+    "timeDay": 174,
+    "timeWeek": 139,
+    "timeMonth": 348,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2025-07-22": 1128,
@@ -237,7 +237,7 @@
       "2025-04-01": 492,
       "2025-03-31": 659,
       "2025-03-30": 425,
-      "2025-03-29": 195
+      "2025-03-29": 165
     }
   },
   {
@@ -245,16 +245,16 @@
     "url": "https://ipa.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ipa.cypwn.xyz.ico",
     "slug": "ipa-library",
-    "status": "up",
+    "status": "down",
     "uptime": "89.13%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "52.44%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "52.47%",
     "uptimeYear": "76.25%",
     "time": 572,
-    "timeDay": 278,
-    "timeWeek": 180,
-    "timeMonth": 802,
+    "timeDay": 253,
+    "timeWeek": 174,
+    "timeMonth": 787,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2025-07-22": 1128,
@@ -359,7 +359,7 @@
       "2025-03-31": 636,
       "2025-03-30": 659,
       "2025-03-29": 514,
-      "2025-03-28": 103
+      "2025-03-28": 73
     }
   },
   {
@@ -367,16 +367,16 @@
     "url": "https://drm.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/drm.cypwn.xyz.ico",
     "slug": "drm",
-    "status": "up",
+    "status": "down",
     "uptime": "89.11%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "52.07%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "52.10%",
     "uptimeYear": "76.22%",
     "time": 157,
-    "timeDay": 125,
-    "timeWeek": 106,
-    "timeMonth": 207,
+    "timeDay": 121,
+    "timeWeek": 105,
+    "timeMonth": 205,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-07-22": 1128,
@@ -479,7 +479,7 @@
       "2025-04-01": 437,
       "2025-03-31": 618,
       "2025-03-30": 770,
-      "2025-03-29": 293
+      "2025-03-29": 276
     }
   },
   {
@@ -487,16 +487,16 @@
     "url": "https://api.cypwn.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.cypwn.xyz.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "89.18%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "52.44%",
-    "uptimeYear": "76.37%",
+    "status": "down",
+    "uptime": "89.19%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "52.47%",
+    "uptimeYear": "76.38%",
     "time": 250,
-    "timeDay": 148,
-    "timeWeek": 119,
-    "timeMonth": 303,
+    "timeDay": 142,
+    "timeWeek": 118,
+    "timeMonth": 299,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-07-22": 1128,
@@ -600,7 +600,7 @@
       "2025-04-01": 460,
       "2025-03-31": 422,
       "2025-03-30": 487,
-      "2025-03-29": 69
+      "2025-03-29": 43
     }
   }
 ]
